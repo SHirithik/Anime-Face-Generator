@@ -1,2 +1,2 @@
 # Anime-Face-Generator
-Dataset: /kaggle/input/animefacedataset
+Dataset: https://www.kaggle.com/datasets/splcher/animefacedataset
